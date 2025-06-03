@@ -1,0 +1,4 @@
+{
+    "urlSalida": "https://pjzac.gob.mx",
+    "urlApisSistema": "https://apps.pjzac.gob.mx/BackConsultaSentenciasPublicas/api/"
+}
